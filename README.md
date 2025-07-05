@@ -23,7 +23,7 @@ This is the frontend for the Real-time Collaborative Notes App, allowing users t
 
 ## Demo
 
-You can watch the demo video [here](https://drive.google.com/file/d/1BKxmsJ75-PgRn7ruV09kEbJxlAYHvMIb/view?usp=drive_link).
+You can watch the demo video [here](https://drive.google.com/file/d/1BKxmsJ75-PgRn7ruV09kEbJxlAYHvMIb/view).
 
 
 

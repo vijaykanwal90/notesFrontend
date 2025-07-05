@@ -41,7 +41,7 @@ const navigate = useNavigate(); // ← for logout redirect
 
   
   useEffect(() => {
-    socketRef.current = io('http://localhost:3000', {
+    socketRef.current = io('https://notes-backend-3yyp.onrender.com', {
       transports: ['websocket'],
       forceNew: true,
     });
